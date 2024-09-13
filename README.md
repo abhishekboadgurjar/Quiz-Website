@@ -51,10 +51,8 @@ The project is structured as follows:
 Check out the live demo of the Quiz Website [here](https://quiz-website-in.netlify.app/).
 
 ## Screenshots
+
 ![Screenshot 2024-09-09 215251](https://github.com/user-attachments/assets/82b60671-8927-4c44-816f-77fb4dcc3af2)
-
-![Screenshot 2024-09-09 215505](https://github.com/user-attachments/assets/c7dc126a-ed00-4a81-8203-4bce8a60c8d4)
-
 
 
 ## Conclusion
