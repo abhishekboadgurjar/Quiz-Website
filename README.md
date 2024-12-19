@@ -65,4 +65,4 @@ This Quiz Website is an excellent project for beginners looking to enhance their
 
 ### Author
 
-**Abhishek Gurjar** is a web developer passionate about building interactive and engaging web applications. You can follow his work on [GitHub](https://github.com/abhishekgurjar-in).
+**Abhishek Gurjar** is a web developer passionate about building interactive and engaging web applications. You can follow his work on [GitHub](https://github.com/abhishekboadgurjar).
